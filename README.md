@@ -10,3 +10,5 @@ Create new design patterns regarding to the obstacles that have been faced
 Improve or reinvent the patterns for my project's sakes
 
 
+Faster-Safer-Better-Prettier-Overtsated
+
