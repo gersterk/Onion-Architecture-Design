@@ -2,3 +2,4 @@
 
 
 Im here in this project, trying to imitate my ECommerce demo project to absurb and test the tiny bit of the onion architecture.
+Thereby learning the tackles and difficulties of the architecture and make provisions to prevent the hustles in the future. 
